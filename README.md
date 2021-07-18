@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**boybenson/boybenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a software developer intern at [caasco](https://www.caasco.io/)
+
+- 🌱 I’m currently learning to write unit tests using [jest](https://jestjs.io/) and [RiteWay](https://github.com/ericelliott/riteway)
+
+- 👯 I’m looking to collaborate on great projects and learn more
+
+### 📫  Let's Get it Touch  ... <br />
+
+  * [Email](mailto:ybenson96@gmail.com) || [Twitter](https://twitter.com/boybenson_) || [WhatsApp](https://wa.me/233546949655)
+
+- ⚡ Fun fact :
+   ##### PHP Is Not Dead 😄😄😄😄 
+
