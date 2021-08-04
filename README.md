@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a software developer intern at [caasco](https://www.caasco.io/)
 
-- 🌱 I’m currently learning to write unit tests using [jest](https://jestjs.io/) and [RiteWay](https://github.com/ericelliott/riteway)
+- 🌱 I’m currently learning to write unit tests using [jest](https://jestjs.io/)
 
 - 👯 I’m looking to collaborate on great projects and learn more
 
