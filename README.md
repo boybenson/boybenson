@@ -3,7 +3,7 @@
 
 ## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈😄
 
-- 🔭 I’m currently a software developer intern at [caasco](https://www.caasco.io/).
+- 🔭 I’m currently a software developer intern at [Tendo](https://www.tengahq.com/).
 
 - 😄 Also i work on a [Fast Food Delivery Web App ](https://github.com/boybenson/fast_food) 
 🍔
