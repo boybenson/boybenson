@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently a software developer intern at [Tendo](https://www.tengahq.com/).
 
-- 😄 Also i work on a [Fast Food Delivery Web App ](https://github.com/boybenson/fast_food) 
-🍔
-🛵 as a fun project during my free time.
-
-- 🌱 I’m currently learning to write unit tests using [jest](https://jestjs.io/) and [react testing library](https://testing-library.com/docs/).
+- 🌱 I’m currently learning to write softwares with [graphl](https://graphql.org/)
 
 - 👯
 
