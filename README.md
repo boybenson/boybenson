@@ -13,6 +13,4 @@
 
   * [Email](mailto:ybenson96@gmail.com) || [Twitter](https://twitter.com/boybenson_) || [WhatsApp](https://wa.me/233546949655)
 
-- ⚡ Fun fact :
-   ##### PHP Is Not Dead 😄😄😄😄 
 
