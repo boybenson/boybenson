@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a software developer intern at [Tendo](https://www.tengahq.com/).
 
-- 🌱 I’m currently learning to write softwares with [graphl](https://graphql.org/)
+- 🌱 I’m currently learning to write softwares with [graphql](https://graphql.org/)
 
 - 👯
 
