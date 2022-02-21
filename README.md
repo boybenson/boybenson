@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈😄
+## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈� 🤩🚀
 
 - 🔭 I’m currently a software developer intern at [Tendo](https://www.tengahq.com/).
 
