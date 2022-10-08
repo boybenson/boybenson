@@ -3,7 +3,7 @@
 
 ## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈🤩🚀
 
-- 🔭 I’m currently a software developer intern at [Tendo](https://www.tengahq.com/).
+- 🔭 I’m currently a software developer at [Tendo](https://www.tengahq.com/).
 
 - 🌱 I’m currently learning to write softwares with [Typescript](https://www.typescriptlang.org/docs/)
 
