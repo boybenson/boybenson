@@ -3,9 +3,9 @@
 
 ## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈🤩🚀
 
-- 🔭 I’m currently a software developer at [Tendo](https://www.tengahq.com/).
+- 🔭 I’m currently a software developer (Backend) at [Bento](https://www.bento.africa/).
 
-- 🌱 I’m currently learning to write softwares with [Typescript](https://www.typescriptlang.org/docs/)
+- 🌱 I’m currently learning to write softwares with [Nest.js](https://nestjs.com/)
 
 - 👯
 
