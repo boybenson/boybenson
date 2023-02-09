@@ -3,11 +3,7 @@
 
 ## I'm an aspiring software developer exploring the everlasting and interesting world of javascript 😈🤩🚀
 
-- 🔭 I’m currently a software developer (Backend) at [Bento](https://www.bento.africa/).
-
-- 🌱 I’m currently learning to write softwares with [Nest.js](https://nestjs.com/)
-
-- 👯
+- 🔭 I’m currently a software developer (Backend) at [Bento](https://www.bento.africa/). and [Vodafone](https://vodafone.com.gh/home/)
 
 ### 📫  Let's Get in Touch  ..... <br />
 
